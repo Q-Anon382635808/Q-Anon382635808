@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+ <img src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg" align="fit"/>
+</p>
 
-<!--
-**Q-Anon382635808/Q-Anon382635808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jroller33&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jroller33" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**I am a Python Developer.**
+<br />
+
+**Contribute by forking a [repo] and submitting a pull request 😁**
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+
+    
+</html>
