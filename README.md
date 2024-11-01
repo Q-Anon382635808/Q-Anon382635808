@@ -55,8 +55,6 @@ Hey there! I’m **0xR4v3n**, an ethical hacker with a knack for cybersecurity a
 ---
 
 ## Contact Me
-[![LinkedIn](https://via.placeholder.com/16x16.png?text=LI)](https://www.linkedin.com/in/yourprofile) [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://via.placeholder.com/16x16.png?text=T)](https://twitter.com/yourhandle) [Twitter](https://twitter.com/yourhandle)
 
 Feel free to reach out if you’re into cybersecurity, looking to collaborate, or just want to chat about hacking!
 
