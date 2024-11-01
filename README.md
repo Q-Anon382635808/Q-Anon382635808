@@ -29,15 +29,15 @@ Hey there! I’m **0xR4v3n**, an ethical hacker with a knack for cybersecurity a
 
 ---
 
-## 🛠 Skills & Tools
-| Programming Languages | Tools & Frameworks     | OS Environments       |
-| --------------------- | ---------------------- | ----------------------|
-| ![Python](https://via.placeholder.com/20x20.png?text=P) Python | ![Kali](https://via.placeholder.com/20x20.png?text=K) Kali Linux | ![Linux](https://via.placeholder.com/20x20.png?text=L) Linux |
-| ![Bash](https://via.placeholder.com/20x20.png?text=B) Bash | ![Metasploit](https://via.placeholder.com/20x20.png?text=M) Metasploit | ![Windows](https://via.placeholder.com/20x20.png?text=W) Windows |
-| ![JavaScript](https://via.placeholder.com/20x20.png?text=J) JavaScript | ![Nmap](https://via.placeholder.com/20x20.png?text=N) Nmap | ![MacOS](https://via.placeholder.com/20x20.png?text=M) MacOS |
-
+![tryhackme](https://github.com/user-attachments/assets/5668b240-9cf9-4db0-963a-dfc144bbb0a4)
 ---
 
+![interests](https://github.com/user-attachments/assets/5b7681aa-3767-445b-9732-9eeda6dc26bb)
+
+
+---
+![udemy](https://github.com/user-attachments/assets/42ee5f9f-d068-442b-821e-66e95b50a5ce)
+---
 ## Featured Projects
 
 ### 🔹 [AwesomePentestingTools](https://github.com/yourusername/AwesomePentestingTools)
