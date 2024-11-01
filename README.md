@@ -46,11 +46,11 @@ Hey there! I’m **0xR4v3n**, an ethical hacker with a knack for cybersecurity a
 - **Highlights**: Includes custom Python scripts, Nmap scans, and basic exploitation scripts.
 - **Skills Demonstrated**: Network scanning, script automation, exploit research.
 
-### 🔹 [HackThePlanet](https://github.com/yourusername/HackThePlanet)
-*A fictional "hacker" game created in JavaScript with pixel-art styling.*
+### 🔹 [TIA-Openness](https://github.com/yourusername/TIAOPENNESS)
+*A Project to automate in Industrial environment.*
 
 - **Highlights**: Realistic hacking simulation game featuring terminal-style gameplay.
-- **Skills Demonstrated**: JavaScript, game development, interactive UI.
+- **Skills Demonstrated**: Python, Siemens Programming, System Engineering.
 
 ---
 
