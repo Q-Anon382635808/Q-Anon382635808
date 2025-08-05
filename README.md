@@ -25,8 +25,18 @@
 ---
 
 ## About Me
-Hey there! I’m **0xR4v3n**, an ethical hacker with a knack for cybersecurity and pentesting. I’m likely working on my own tools and sharing cybersecurity insights.
 
+💀 0xR4v3n – Ethical Hacker | Python Dev | OSINT & Recon Specialist
+Ethische hacker met een passie voor cybersecurity, OSINT en het bouwen van eigen tools. Ik ontwerp en ontwikkel geautomatiseerde recon pipelines, AI-assistenten voor pentesting, en hacker-style GUI’s die functionaliteit combineren met overzicht en controle.
+Mijn werk richt zich op:
+
+🔎 Reconnaissance & OSINT – Automatisch profielen bouwen, fake accounts analyseren, subdomeinen opsporen en kwetsbaarheden blootleggen.
+🛠️ Tool Development in Python – Integratie van tools als Subfinder, httpx, Amass, DNSGen en meer in modulaire, herbruikbare Python-architecturen.
+🧠 AI-assisted Hacking – Ontwikkeling van AI-agents die Hack The Box challenges analyseren en rapporteren.
+🖥️ Hack-themed Interfaces – Clean CLI-stijl GUI’s met een focus op overzicht, snelheid en stijl, meestal met PyQt5 of custom scripts.
+🔗 Low-level en netwerkexploratie – Denk aan SSRF via Gopher, MOSFET-tests op hardware en experimentele netwerktechnieken.
+Altijd leergierig, altijd hands-on. Ik geloof dat je het meeste leert door zelf te bouwen, te breken, en opnieuw te bouwen.
+"Recon is not a step — it's a mindset."
 ---
 
 ![tryhackme](https://github.com/user-attachments/assets/5668b240-9cf9-4db0-963a-dfc144bbb0a4)
